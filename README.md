@@ -29,4 +29,4 @@ Documentation for all HA integrations used.
 * [switch.tplink](https://www.home-assistant.io/components/switch.tplink/)
 * [weather.darky_sky](https://www.home-assistant.io/components/weather.darksky/)
 * [zone](https://www.home-assistant.io/components/zone/)
-* [zwave[(https://www.home-assistant.io/components/zwave/)
+* [zwave](https://www.home-assistant.io/components/zwave/)
